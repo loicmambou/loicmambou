@@ -47,7 +47,7 @@ les **données géospatiales**, la **télédétection** et la **science des donn
 
 ### 🤖 Projet IA / Machine Learning
 **Description :** Application concrète de modèles de machine learning sur des jeux de données réels.  
-🔗 Dépôt GitHub : https://github.com/USERNAME/ml-project
+
 
 *(D’autres projets sont disponibles sur mon GitHub)*
 
